@@ -14,35 +14,23 @@ Dit project wordt ontwikkeld als onderdeel van het groepsproject voor smester 2,
 
 ## Team
 
-| Iedjaaz Abdool-Azeezkhan | Software Developer
-| Rik Hoevenaars | Software Developer
-| Alex Zoggel | Cyber Security
-| Mitchell Roest | Cyber Security
-| Brigitte Heijkoop | Cyber Security
-| Jeroen Timmermans| Business
+Iedjaaz Abdool-Azeezkhan | Software Developer,
+Rik Hoevenaars | Software Developer,
+Alex Zoggel | Cyber Security,
+Mitchell Roest | Cyber Security,
+Brigitte Heijkoop | Cyber Security,
+Jeroen Timmermans| Business
 
 ---
 
 ## Technologieën
 
-| C# | Backend logica
-| ASP.NET | Webapplicatie framework
-| ADO.NET | Database connectie
-| MySQL | Database
-| MySQL Workbench | Database beheer
-| GitHub | Versiebeheer
-
----
-
-## Mappenstructuur
-
-Booqr/
-│
-├── Booqr.sln # Visual Studio solution
-│
-├── Booqr/ # Hoofdproject
-│
-└── README.md
+C# | Backend logica
+ASP.NET | Webapplicatie framework
+ADO.NET | Database connectie
+MySQL | Database
+MySQL Workbench | Database beheer
+GitHub | Versiebeheer
 
 ---
 
