@@ -1,4 +1,4 @@
-# Booqr — Area42-3
+# Booqr — Area52
 
 > Reserveringssysteem voor vakantiepark Area42 | Semester 2 groepsproject
 
@@ -6,7 +6,7 @@
 
 ## Projectbeschrijving
 
-Booqr is een webapplicatie waarmee gasten van vakantiepark Area42 faciliteiten kunnen reserveren. Dit betreft de restaurant en snackbar in het vakantiepark. Het systeem biedt klanten de mogelijkheid om in te loggen, een reservering te maken en deze te beheren.
+Booqr is een webapplicatie waarmee gasten van vakantiepark Area52 faciliteiten kunnen reserveren. Dit betreft de restaurant en snackbar in het vakantiepark. Het systeem biedt klanten de mogelijkheid om in te loggen, een reservering te maken en deze te beheren.
 
 Dit project wordt ontwikkeld als onderdeel van het groepsproject voor smester 2, de propedeusefase.
 
@@ -14,23 +14,23 @@ Dit project wordt ontwikkeld als onderdeel van het groepsproject voor smester 2,
 
 ## Team
 
-Iedjaaz Abdool-Azeezkhan | Software Developer,
-Rik Hoevenaars | Software Developer,
-Alex Zoggel | Cyber Security,
-Mitchell Roest | Cyber Security,
-Brigitte Heijkoop | Cyber Security,
-Jeroen Timmermans| Business
+- Iedjaaz Abdool-Azeezkhan: Software Developer,
+- Rik Hoevenaars: Software Developer,
+- Alex Zoggel: Cyber Security,
+- Mitchell Roest: Cyber Security,
+- Brigitte Heijkoop: Cyber Security,
+- Jeroen Timmermans: Business
 
 ---
 
 ## Technologieën
 
-C# | Backend logica
-ASP.NET | Webapplicatie framework
-ADO.NET | Database connectie
-MySQL | Database
-MySQL Workbench | Database beheer
-GitHub | Versiebeheer
+- C# Backend logica,
+- ASP.NET Webapplicatie framework,
+- ADO.NET Database connectie, 
+- MySQL Database,
+- MySQL Workbench Database beheer, 
+- GitHub Versiebeheer
 
 ---
 
