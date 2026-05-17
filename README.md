@@ -1,6 +1,6 @@
 # Booqr — Area52
 
-> Reserveringssysteem voor vakantiepark Area42 | Semester 2 groepsproject
+> Reserveringssysteem voor vakantiepark Area52 | Semester 2 groepsproject
 
 ---
 
